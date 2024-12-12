@@ -1,7 +1,3 @@
 # earthaam
 
-
-
-
-![W - Coming soon](https://raw.githubusercontent.com/<username>/<repository>/branch-name/path-to-image.png)
-
+![ComingSoon](https://github.com/user-attachments/assets/db8d4cc0-5892-4699-b148-876bdd8eee52)
